@@ -1,4 +1,4 @@
 language: objective-c
-script:
-- xctool -workspace xcodeci.xcodeproj/project.xcworkspace/ -scheme xcodeci
+xcode_workspace: xcodeci.xcodeproj/project.xcworkspace
+xcode_scheme: xcodeci
 
